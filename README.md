@@ -1,0 +1,1 @@
+Hi! This a Custom KeyCap 3D Model. I made it on Autodesk Fusion 360 and I'm sharing it to you in .STL format. Feel free to use it. You can open it with Vision 3D, Paint 3D, Solidworks, Meshmixer, etc.
